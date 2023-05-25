@@ -6,7 +6,7 @@
 -->
 
 # Communicate using Markdown
-## ...this is a great idea
+# ...this is a great idea
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```
