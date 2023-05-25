@@ -1,3 +1,5 @@
+# This is a great idea
+
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -6,6 +8,17 @@
 -->
 
 # Communicate using Markdown
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
